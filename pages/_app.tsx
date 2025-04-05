@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import ChatWithGemini from './api/ChatWithGeminitsx'
+import ChatWithGemini from './api/ChatWithOpenAi'
 
 
 function MyApp() {
